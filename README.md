@@ -5,6 +5,6 @@ Small project where users are able to login and manipulate their profile after a
 
 # System Requirement
 
-> Kafka server on Port 9092
-> Maven
-> Java 1.8
+- Kafka server on Port 9092
+- Maven
+- Java 1.8
