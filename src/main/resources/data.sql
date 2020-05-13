@@ -1,0 +1,7 @@
+insert into USER_AUTH_DATA values('saurabh1','password1')
+insert into USER_AUTH_DATA values('saurabh2','password2')
+insert into USER_AUTH_DATA values('saurabh3','password3')
+insert into USER_AUTH_DATA values('saurabh4','password4')
+insert into PROFILE_SERVICE_DATA  values('saurabh1','sdd',98)
+insert into PROFILE_SERVICE_DATA  values('saurabh2','sdd',98)
+insert into PROFILE_SERVICE_DATA  values('saurabh3','sdd',98)

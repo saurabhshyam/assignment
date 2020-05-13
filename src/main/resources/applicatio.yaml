@@ -1,0 +1,17 @@
+spring: 
+  cloud: 
+    jpa: 
+      hibernate: 
+        ddl-auto: create
+      show-sql: true
+    stream: 
+      bindings: 
+        delete-in: 
+          contentType: application/json
+          destination: delete
+        update-in: 
+          contentType: application/json
+          destination: update
+      kafka: 
+        binder: 
+          brokers: "localhost:9092"
